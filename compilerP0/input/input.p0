@@ -1,0 +1,9 @@
+# P0 input file
+#
+# Josafat Piraquive
+# Simon Maurer
+# (Lothar Rubusch) contributer for prior steps of the project
+
+x = - input()
+y = input()
+print x + y
